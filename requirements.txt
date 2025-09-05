@@ -1,0 +1,11 @@
+numpy
+opencv-python
+tensorflow>=2.6.0
+keras
+geopy
+pyserial
+pynmea2
+requests
+RPi.GPIO; platform_system == "Linux"
+adafruit-circuitpython-vl53l0x
+adafruit-circuitpython-ads1x15
